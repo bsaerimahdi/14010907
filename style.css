@@ -1,0 +1,101 @@
+header{
+    position: sticky;
+    background-color: hsl(220deg 23% 95%);
+}
+img{
+    width: 90px;
+    height: 40px;
+    margin-left: 20px;
+}
+div.sitename{
+    display: inline-block;
+    margin-left: 600px;
+}
+div.login{
+    float:right ;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li a:hover {
+    background-color: rgb(0, 183, 255);
+}
+
+#a{
+    width: 150px;
+    height: 150px;
+    margin-top: 150px;
+    margin-left: 200px;
+    float: left;
+}
+#b{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+#c{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+#d{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+div.e{
+    margin-left: 250px;
+    float: left; 
+}
+div.f{
+    float: left;
+    margin-left: 250px;
+}
+div.g{
+    float: left;
+    margin-left: 360px; 
+}
+div.h{
+    float: left;
+    margin-left: 250px;
+}
+div.fix{
+    
+    background-image:url(https://www.chapkhone.info/wp-content/uploads/2020/09/electronic-promotional-gifts-1.jpg);
+    margin-top: 450px;
+    margin-left: 200px;
+    margin-right: 150px;
+}
